@@ -1,0 +1,16 @@
+// BASE
+@import './base/common';
+@import './base/container';
+
+// COMPONENTS
+@import "./components/title";
+@import "./components/btn-burger";
+@import "./components/modal";
+@import "./components/modal-two";
+@import "./components/modal-three";
+
+// LAYOUT
+@import "./layout/one";
+@import "./layout/two";
+@import "./layout/three";
+@import "./layout/header";
